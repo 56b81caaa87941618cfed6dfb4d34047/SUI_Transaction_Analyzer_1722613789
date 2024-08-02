@@ -9,13 +9,13 @@ Vue.component("simple_footer_component_1722613790", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            STARTER_TEMPLATE_APPLICATION_NAME
+                            SuiScope - Real-time Sui Transaction Analyzer
                         </a>
                     </div>
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        STARTER_TEMPLATE_FOOTER_CONTENT
+                        Monitor new Sui blockchain transactions as they happen. Get insights into transaction details, smart contract interactions and more with SuiScope.
                     </div>
                 </div>
             </div>
