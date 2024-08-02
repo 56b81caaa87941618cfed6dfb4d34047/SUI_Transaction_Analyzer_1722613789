@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new sui transactions",
     "creation_time": "2024-08-02 15:49:49.859271",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image uses vibrant shades of pink and purple in a cosmic, otherworldly setting with stylized, surreal landscapes and celestial bodies. The overall style is dreamlike and fantastical, blending elements of space and fantasy art."
 }
